@@ -40,3 +40,6 @@ git pull
 
 gittt addd 
 gittt pushhhh
+
+Hiiii
+Helloooo
